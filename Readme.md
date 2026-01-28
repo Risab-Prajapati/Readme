@@ -4,9 +4,9 @@
 <h1 align="center">Hi,I'm Risab Prajapati </h1>
 <h3 align="center">A Passionate Full Stack DevOps Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-metrix&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-metrix" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Risab-Prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="Risab-Prajapati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan-metrix" alt="roshan-metrix-github-trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Risab-Prajapati" alt="Risab-Prajapati-github-trophy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -21,9 +21,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roshannnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshannnn" height="30" width="40" /></a>
-<a href="https://fb.com/100071070220020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshan patel" height="30" width="40" /></a>
+<a href="https://fb.com/100071070220020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Risab-Prajapati height="30" width="40" /></a>
 <a href="https://www.instagram.com/_roshnnnn_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_roshnnnn_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/roshan-metrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshan-metrix" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Risab-Prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Risab-Prajapati" height="30" width="40" /></a>
   
 </p>
 
