@@ -16,7 +16,7 @@
 
 - 🎯 Proficiency in **Typescript,ReactJS,NodeJS etc.**
 
-- 📫 Reach me **roshanpatel12309@gmail.com**
+- 📫 Reach me **rishavp063@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
